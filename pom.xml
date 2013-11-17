@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>com.viewpagerindicator</groupId>
-    <artifactId>parent</artifactId>
+    <artifactId>viewpagerindicator-parent</artifactId>
     <packaging>pom</packaging>
     <version>2.4.1</version>
 
@@ -20,8 +20,7 @@
     <inceptionYear>2011</inceptionYear>
 
     <modules>
-        <module>library</module>
-        <module>sample</module>
+        <module>viewpagerindicator-library</module>
     </modules>
 
     <scm>
