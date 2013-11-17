@@ -20,7 +20,7 @@
     <inceptionYear>2011</inceptionYear>
 
     <modules>
-        <module>viewpagerindicator-library</module>
+        <module>library</module>
     </modules>
 
     <scm>
